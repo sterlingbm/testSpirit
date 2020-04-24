@@ -1,2 +1,0 @@
-# testSpirit
-Created with CodeSandbox
